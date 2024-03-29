@@ -1,0 +1,57 @@
+91,RV46 Ljubljana,145.575,144.975,A-Analog,High,25K,123,123,TG 9 LOKAL TS2,Group Call,9,YOUR_CALL_SIGN,Off,Carrier,Off,1,1,1,Off,1,1,None,None,Off,Off,Off,Off,Normal Encryption,Off,Off,Off,Off,251.1,1,Off,Off,Off,Off,Off,Off,1,0,Off,0,1,1,0,0,0,0,0,0,0,0
+92,RV46 Lisca,145.575,144.975,A-Analog,High,25K,77,77,TG 9 LOKAL TS2,Group Call,9,YOUR_CALL_SIGN,Off,Carrier,Off,1,1,1,Off,1,1,None,None,Off,Off,Off,Off,Normal Encryption,Off,Off,Off,Off,251.1,1,Off,Off,Off,Off,Off,Off,1,0,Off,0,1,1,0,0,0,0,0,0,0,0
+93,RV47 Malic,145.5875,144.9875,A-Analog,High,25K,123,123,TG 9 LOKAL TS2,Group Call,9,YOUR_CALL_SIGN,Off,Carrier,Off,1,1,1,Off,1,1,None,None,Off,Off,Off,Off,Normal Encryption,Off,Off,Off,Off,251.1,1,Off,Off,Off,Off,Off,Off,1,0,Off,0,1,1,0,0,0,0,0,0,0,0
+94,RV49 Mohor,145.6125,145.0125,A-Analog,High,25K,Off,Off,TG 9 LOKAL TS2,Group Call,9,YOUR_CALL_SIGN,Off,Carrier,Off,1,1,1,Off,1,1,None,None,Off,Off,Off,Off,Normal Encryption,Off,Off,Off,Off,251.1,1,Off,Off,Off,Off,Off,Off,1,0,Off,0,1,1,0,0,0,0,0,0,0,0
+95,RV49 Stucin,145.6125,145.0125,A-Analog,High,25K,123,123,TG 9 LOKAL TS2,Group Call,9,YOUR_CALL_SIGN,Off,CTCSS/DCS,Off,1,1,1,Off,1,1,None,None,Off,Off,Off,Off,Normal Encryption,Off,Off,Off,Off,251.1,1,Off,Off,Off,Off,Off,Off,1,0,Off,0,1,1,0,0,0,0,0,0,0,0
+96,RV50 Nanos,145.625,145.025,A-Analog,Turbo,25K,123,123,TG 9 LOKAL TS2,Group Call,9,YOUR_CALL_SIGN,Off,CTCSS/DCS,Off,1,1,1,Off,1,1,None,None,Off,Off,Off,Off,Normal Encryption,Off,Off,Off,Off,251.1,1,Off,Off,Off,Off,Off,Off,1,0,Off,0,1,1,100,100,0,0,0,0,0,0
+97,RV51 Kobla,145.6375,145.0375,A-Analog,High,25K,123,123,TG 9 LOKAL TS2,Group Call,9,YOUR_CALL_SIGN,Off,CTCSS/DCS,Off,1,1,1,Off,1,1,None,None,Off,Off,Off,Off,Normal Encryption,Off,Off,Off,Off,251.1,1,Off,Off,Off,Off,Off,Off,1,0,Off,0,1,1,0,0,0,0,0,0,0,0
+98,RV51 Slemene,145.6375,145.0375,A-Analog,High,25K,77,77,TG 9 LOKAL TS2,Group Call,9,YOUR_CALL_SIGN,Off,CTCSS/DCS,Off,1,1,1,Off,1,1,None,None,Off,Off,Off,Off,Normal Encryption,Off,Off,Off,Off,251.1,1,Off,Off,Off,Off,Off,Off,1,0,Off,0,1,1,0,0,0,0,0,0,0,0
+99,RV52 Trdinov Vrh,145.65,145.05,A-Analog,High,25K,Off,123,TG 9 LOKAL TS2,Group Call,9,YOUR_CALL_SIGN,Off,Carrier,Off,1,1,1,Off,1,1,None,None,Off,Off,Off,Off,Normal Encryption,Off,Off,Off,Off,251.1,1,Off,Off,Off,Off,Off,Off,1,0,Off,0,1,1,0,0,0,0,0,0,0,0
+100,RV52 Kup,145.65,145.05,A-Analog,High,25K,Off,Off,TG 9 LOKAL TS2,Group Call,9,YOUR_CALL_SIGN,Off,Carrier,Off,1,1,1,Off,1,1,None,None,Off,Off,Off,Off,Normal Encryption,Off,Off,Off,Off,251.1,1,Off,Off,Off,Off,Off,Off,1,0,Off,0,1,0,0,0,0,0,0,0,0,0
+101,RV54 Korada,145.675,145.075,A-Analog,High,25K,Off,Off,TG 9 LOKAL TS2,Group Call,9,YOUR_CALL_SIGN,Off,Carrier,Off,1,1,1,Off,1,1,None,None,Off,Off,Off,Off,Normal Encryption,Off,Off,Off,Off,251.1,1,Off,Off,Off,Off,Off,Off,1,0,Off,0,1,0,0,0,0,0,0,0,0,0
+102,RV54 Urslja G.,145.675,145.075,A-Analog,High,25K,Off,Off,TG 9 LOKAL TS2,Group Call,9,YOUR_CALL_SIGN,Off,Carrier,Off,1,1,1,Off,1,1,None,None,Off,Off,Off,Off,Normal Encryption,Off,Off,Off,Off,251.1,1,Off,Off,Off,Off,Off,Off,1,0,Off,0,1,0,0,0,0,0,0,0,0,0
+103,RV54 Kranjska G.,145.675,145.075,A-Analog,High,25K,Off,Off,TG 9 LOKAL TS2,Group Call,9,YOUR_CALL_SIGN,Off,Carrier,Off,1,1,1,Off,1,1,None,None,Off,Off,Off,Off,Normal Encryption,Off,Off,Off,Off,251.1,1,Off,Off,Off,Off,Off,Off,1,0,Off,0,1,0,0,0,0,0,0,0,0,0
+104,RV55 Zagarski,145.6875,145.0875,A-Analog,High,25K,77,77,TG 9 LOKAL TS2,Group Call,9,YOUR_CALL_SIGN,Off,CTCSS/DCS,Off,1,1,1,Off,1,1,None,None,Off,Off,Off,Off,Normal Encryption,Off,Off,Off,Off,251.1,1,Off,Off,Off,Off,Off,Off,1,0,Off,0,1,0,0,0,0,0,0,0,0,0
+105,RV56 Mrzlica,145.7,145.1,A-Analog,High,25K,123,123,TG 9 LOKAL TS2,Group Call,9,YOUR_CALL_SIGN,Off,CTCSS/DCS,Off,1,1,1,Off,1,1,None,None,Off,Off,Off,Off,Normal Encryption,Off,Off,Off,Off,251.1,1,Off,Off,Off,Off,Off,Off,1,0,Off,0,1,0,0,0,0,0,0,0,0,0
+106,RV57 Pecna Reber,145.7125,145.1125,A-Analog,High,25K,123,123,TG 9 LOKAL TS2,Group Call,9,YOUR_CALL_SIGN,Off,CTCSS/DCS,Off,1,1,1,Off,1,1,None,None,Off,Off,Off,Off,Normal Encryption,Off,Off,Off,Off,251.1,1,Off,Off,Off,Off,Off,Off,1,0,Off,0,1,0,0,0,0,0,0,0,0,0
+107,RV58 Vojsko,145.725,145.125,A-Analog,High,25K,Off,Off,TG 9 LOKAL TS2,Group Call,9,YOUR_CALL_SIGN,Off,Carrier,Off,1,1,1,Off,1,1,None,None,Off,Off,Off,Off,Normal Encryption,Off,Off,Off,Off,251.1,1,Off,Off,Off,Off,Off,Off,1,0,Off,0,1,0,0,0,0,0,0,0,0,0
+108,RV58 Pohorje,145.725,145.125,A-Analog,High,25K,Off,Off,TG 9 LOKAL TS2,Group Call,9,YOUR_CALL_SIGN,Off,Carrier,Off,1,1,1,Off,1,1,None,None,Off,Off,Off,Off,Normal Encryption,Off,Off,Off,Off,251.1,1,Off,Off,Off,Off,Off,Off,1,0,Off,0,1,0,0,0,0,0,0,0,0,0
+109,RV58 Jesenice,145.725,145.125,A-Analog,High,25K,Off,Off,TG 9 LOKAL TS2,Group Call,9,YOUR_CALL_SIGN,Off,Carrier,Off,1,1,1,Off,1,1,None,None,Off,Off,Off,Off,Normal Encryption,Off,Off,Off,Off,251.1,1,Off,Off,Off,Off,Off,Off,1,0,Off,0,1,0,0,0,0,0,0,0,0,0
+110,RV59 Ormoz,145.7375,145.1375,A-Analog,High,25K,123,123,TG 9 LOKAL TS2,Group Call,9,YOUR_CALL_SIGN,Off,CTCSS/DCS,Off,1,1,1,Off,1,1,None,None,Off,Off,Off,Off,Normal Encryption,Off,Off,Off,Off,251.1,1,Off,Off,Off,Off,Off,Off,1,0,Off,0,1,0,0,0,0,0,0,0,0,0
+111,RV60 Grmada,145.75,145.15,A-Analog,High,25K,123,123,TG 9 LOKAL TS2,Group Call,9,YOUR_CALL_SIGN,Off,CTCSS/DCS,Off,1,1,1,Off,1,1,None,None,Off,Off,Off,Off,Normal Encryption,Off,Off,Off,Off,251.1,1,Off,Off,Off,Off,Off,Off,1,0,Off,0,1,0,0,0,0,0,0,0,0,0
+112,RV60 Karlovica,145.75,145.15,A-Analog,High,25K,Off,Off,TG 9 LOKAL TS2,Group Call,9,YOUR_CALL_SIGN,Off,Carrier,Off,1,1,1,Off,1,1,None,None,Off,Off,Off,Off,Normal Encryption,Off,Off,Off,Off,251.1,1,Off,Off,Off,Off,Off,Off,1,0,Off,0,1,0,0,0,0,0,0,0,0,0
+113,RV61 Malija,145.7625,145.1625,A-Analog,High,25K,123,123,TG 9 LOKAL TS2,Group Call,9,YOUR_CALL_SIGN,Off,CTCSS/DCS,Off,1,1,1,Off,1,1,None,None,Off,Off,Off,Off,Normal Encryption,Off,Off,Off,Off,251.1,1,Off,Off,Off,Off,Off,Off,1,0,Off,0,1,0,0,0,0,0,0,0,0,0
+114,RV62 Krim,145.775,145.175,A-Analog,High,25K,Off,123,TG 9 LOKAL TS2,Group Call,9,YOUR_CALL_SIGN,Off,Carrier,Off,1,1,1,Off,1,1,None,None,Off,Off,Off,Off,Normal Encryption,Off,Off,Off,Off,251.1,1,Off,Off,Off,Off,Off,Off,1,0,Off,0,1,0,0,0,0,0,0,0,0,0
+115,RV63 Kanin,145.7875,145.1875,A-Analog,High,25K,123,123,TG 9 LOKAL TS2,Group Call,9,YOUR_CALL_SIGN,Off,CTCSS/DCS,Off,1,1,1,Off,1,1,None,None,Off,Off,Off,Off,Normal Encryption,Off,Off,Off,Off,251.1,1,Off,Off,Off,Off,Off,Off,1,0,Off,0,1,0,0,0,0,0,0,0,0,0
+116,RV63 Mozirje,145.7875,145.1875,A-Analog,High,25K,Off,Off,TG 9 LOKAL TS2,Group Call,9,YOUR_CALL_SIGN,Off,Carrier,Off,1,1,1,Off,1,1,None,None,Off,Off,Off,Off,Normal Encryption,Off,Off,Off,Off,251.1,1,Off,Off,Off,Off,Off,Off,1,0,Off,0,1,0,0,0,0,0,0,0,0,0
+117,RV63 Cretez,145.7875,145.1875,A-Analog,High,25K,123,123,TG 9 LOKAL TS2,Group Call,9,YOUR_CALL_SIGN,Off,CTCSS/DCS,Off,1,1,1,Off,1,1,None,None,Off,Off,Off,Off,Normal Encryption,Off,Off,Off,Off,251.1,1,Off,Off,Off,Off,Off,Off,1,0,Off,0,1,0,0,0,0,0,0,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,0.599999999999994,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,0.599999999999994,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,0.599999999999994,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,0.600000000000023,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,0.600000000000023,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,0.599999999999994,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,0.599999999999994,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,0.599999999999994,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,0.599999999999994,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,0.599999999999994,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,0.600000000000023,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,0.600000000000023,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,0.600000000000023,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,0.599999999999994,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,0.599999999999994,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,0.599999999999994,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,0.599999999999994,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,0.599999999999994,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,0.599999999999994,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,0.600000000000023,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,0.599999999999994,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,0.599999999999994,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,0.599999999999994,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,0.599999999999994,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,0.599999999999994,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,0.599999999999994,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,0.599999999999994,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
